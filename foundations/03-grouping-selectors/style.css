@@ -1,0 +1,15 @@
+/* style.css */
+.do-it,
+.dont-do-it {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.do-it{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.dont-do-it {
+    background-color: #ffff00;
+}
