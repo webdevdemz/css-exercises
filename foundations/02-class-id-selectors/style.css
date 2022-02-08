@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd-number {
+    background-color: #d4a0a9;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.three-only {
+    font-size: 24px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #a0f5a0;
+    font-size: 24px;
+    font-family: bold;
+}
